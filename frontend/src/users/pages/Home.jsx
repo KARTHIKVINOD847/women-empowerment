@@ -7,6 +7,7 @@ import { Link } from 'react-router-dom'
 function Home() {
   return (
     <>
+    <Header/>
     <header className='flex justify-center items-center'>
     <div id="main" className='flex justify-center items-center'>
       <div className="md:grid grid-cols-3">
