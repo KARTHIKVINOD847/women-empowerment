@@ -1,7 +1,7 @@
 import React from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faFacebook,faInstagram,faXTwitter } from '@fortawesome/free-brands-svg-icons'
-import { faUser,faAngleDown,faSignOut,faBars } from '@fortawesome/free-solid-svg-icons'
+import { faUser,faBars } from '@fortawesome/free-solid-svg-icons'
 import { Link } from 'react-router-dom'
 import { useState } from 'react'
 

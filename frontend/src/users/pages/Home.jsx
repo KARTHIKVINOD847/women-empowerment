@@ -7,8 +7,6 @@ import { Link } from 'react-router-dom'
 function Home() {
   return (
     <>
-      <Header/>
-    
     <header className='flex justify-center items-center'>
     <div id="main" className='flex justify-center items-center'>
       <div className="md:grid grid-cols-3">
@@ -93,7 +91,6 @@ function Home() {
       <p className='mt-3'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magni expedita error dolore in porro atque molestias accusamus aspernatur eaque, sit rem, provident quos iste, architecto perferendis est quam eligendi omnis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor dolorem libero nostrum minus laborum velit repellat repudiandae! Ratione, necessitatibus doloremque corrupti culpa placeat praesentium quam itaque exercitationem, perferendis officia porro.Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos magnam quae excepturi quisquam, fuga dolor atque deleniti impedit voluptates earum id ullam repellendus sequi nobis non ea. Saepe, sunt inventore?Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus veniam animi dolores cumque ipsam doloremque voluptatibus rem magni incidunt eum non in sunt eaque, pariatur, iure at consectetur delectus. Dolores?
       </p>
     </div>
-    <Footer/>
     </>
   )
 }
