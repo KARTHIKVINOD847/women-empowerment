@@ -1,0 +1,25 @@
+@import "tailwindcss";
+*{
+   font-family: "Roboto Condensed", sans-serif;
+}
+Header{
+   height: 500px;
+   width: 100%;
+   background-image: url("https://innereyefoundation.org/wp-content/uploads/2024/08/women_empowerment.jpg");
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+#main{
+   height: 500px;
+   width: 100%;
+   background-color: blak;
+}
+#login{
+   background-image: url("https://wallpapercave.com/wp/wp11975617.jpg");
+   width: 100%;
+   height: 100vh;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+}
