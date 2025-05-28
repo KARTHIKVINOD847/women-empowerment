@@ -16,7 +16,7 @@ function Header() {
         </div>
         <div className='flex items-center justify-center'>
           <h1 className='text-3xl md:hidden ms-2'>
-            Book Store
+            Web Store
           </h1>
         </div>
         <div className='flex justify-end items-center'>
